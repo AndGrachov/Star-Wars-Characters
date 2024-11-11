@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'JediFont';
+  src: url('./assets/fonts/Starjedi.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: 'JediFont', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://media.istockphoto.com/id/498478219/photo/stars-at-night-sky.jpg?s=612x612&w=0&k=20&c=M_XD9zraaC1-1Wbvxk5XMU_Qwc5Lwsi7YbSmYbCoXi4=');
+}
+

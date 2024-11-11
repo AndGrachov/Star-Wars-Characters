@@ -1,0 +1,7 @@
+.characterList {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1250px;
+    margin: auto;
+}

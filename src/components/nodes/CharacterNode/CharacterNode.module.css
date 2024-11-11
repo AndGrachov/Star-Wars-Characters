@@ -1,0 +1,21 @@
+.container {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(15, 23, 43);
+    border: 1px solid black;
+    color: white;
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nameField {
+    text-align: center;
+    padding: 10px;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+}

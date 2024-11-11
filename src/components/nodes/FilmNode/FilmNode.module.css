@@ -1,0 +1,22 @@
+.container {
+    width: 200px;
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(15, 23, 43);
+    border: 1px solid black;
+    color: white;
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    padding: 5px;
+    border-bottom: 1px solid green;
+    text-align: center;
+}
+
+.description {
+    text-align: left;
+}
